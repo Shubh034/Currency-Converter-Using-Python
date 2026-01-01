@@ -72,4 +72,32 @@ For the selected currency pair and duration:
 ---
 
 ### 8. Cross-Currency Conversion Using USD
-- When both se
+- When both selected currencies are non-USD:
+  - USD is used as an intermediate (through) currency
+- Example:
+  - Currency 1: GBP
+  - Currency 2: AUD
+  - GBP → USD exchange rate is derived
+  - USD → AUD exchange rate is applied
+  - Final direct GBP → AUD conversion is calculated
+
+---
+
+## Installation of Required Libraries
+
+### Prerequisites
+- Python or Anaconda must be installed on the system
+
+Download Python from:  
+https://www.python.org/downloads/
+
+---
+
+### Required Python Libraries
+Install the following libraries using **pip**:
+
+```bash
+pip install streamlit
+pip install numpy
+pip install pandas
+pip install plotly
