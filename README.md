@@ -87,10 +87,7 @@ For the selected currency pair and duration:
 
 ### Prerequisites
 - Python or Anaconda must be installed on the system
-
-Download Python from:  
-https://www.python.org/downloads/
-
+- 
 ---
 
 ### Required Python Libraries
