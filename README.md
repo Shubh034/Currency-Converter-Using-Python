@@ -86,8 +86,7 @@ For the selected currency pair and duration:
 ## Installation of Required Libraries
 
 ### Prerequisites
-- Python or Anaconda must be installed on the system
-- 
+- Python or Anaconda must be installed on the system 
 ---
 
 ### Required Python Libraries
