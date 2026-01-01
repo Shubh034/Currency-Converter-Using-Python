@@ -1,0 +1,13 @@
+Datasets used are downloaded from internet and the following csv files were used:
+
+ Exchange_Rate_Report_2012.csv
+ Exchange_Rate_Report_2013.csv
+ Exchange_Rate_Report_2014.csv
+ Exchange_Rate_Report_2015.csv
+ Exchange_Rate_Report_2016.csv
+ Exchange_Rate_Report_2017.csv
+ Exchange_Rate_Report_2018.csv
+ Exchange_Rate_Report_2019.csv
+ Exchange_Rate_Report_2020.csv
+ Exchange_Rate_Report_2021.csv
+ Exchange_Rate_Report_2022.csv
